@@ -1,3 +1,5 @@
+package src.main.java;
+
 import java.util.ArrayList;
 
 public class Demo {
@@ -21,6 +23,11 @@ public class Demo {
 
     public static void methond2(){
         System.out.println("method2");
+    }
+
+
+    public static void methond3(){
+        System.out.println("method3");
     }
 
 }
